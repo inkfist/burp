@@ -2,4 +2,4 @@
 
 echo "Aloha, World"
 
-date
+banner -w 60 aloha
