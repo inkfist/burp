@@ -1,3 +1,5 @@
 #!/bin/bash
 
-echo "Goodbye, World"
+echo "Hello Again, 'Goodbye'"
+
+ls
